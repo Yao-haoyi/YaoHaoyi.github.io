@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "姚皓译"
 description              : "Geomorphology / Debris-flow / Remote sensing"
-repository               : "Yao-haoyi/YaoHaoyi.github.io"
+repository               : "YaoHaoyi.github.io"
 google_scholar_stats_use_cdn : true
 url : "https://yao-haoyi.github.io"
 baseurl : "/YaoHaoyi.github.io"
